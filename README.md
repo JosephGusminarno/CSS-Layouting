@@ -1,2 +1,5 @@
 # CSS-Layouting
-Joseph Gusminarno Wijaya_2205101037_5C
+## Identitas
+- **Nama** : Joseph Gusminarno Wijaya  
+- **NIM**  : 2205101037  
+- **Kelas**: 5C  
